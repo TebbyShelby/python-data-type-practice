@@ -4,7 +4,4 @@ __pycache__/
 venv/
 .DS_Store
 share/
-Scripts
-lib
-include
-pyvenv.cfg
+myenv
