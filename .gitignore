@@ -2,3 +2,6 @@ include/
 lib/
 Scripts/
 **env**
+**logo**
+kernel.json
+ipython.1
