@@ -1,7 +1,10 @@
-include/
-lib/
-Scripts/
-**env**
-**logo**
-kernel.json
-ipython.1
+__pycache__/
+*.pyc
+.env
+venv/
+.DS_Store
+share/
+Scripts
+lib
+include
+pyvenv.cfg
